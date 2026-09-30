@@ -1,0 +1,6 @@
+{
+  "name": "VoltGrid - Pemantauan Tiang Listrik & Aset Jaringan",
+  "description": "Sistem pemantauan tiang listrik berbasis lokasi, pelaporan kerusakan real-time, analisis prediktif risiko cuaca, audit QR code, dan dispatch teknisi.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
